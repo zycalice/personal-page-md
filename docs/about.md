@@ -24,7 +24,7 @@ Currently, I am a Software Engineer (Machine Learning)/Research Engineer at [Met
 Trust and Safety.
 
 My overall [experiences](https://zycalice.github.io/experience/) mainly centered around statistics and law, which in my opinion
-helps us to discover truth. Recently I have further developed a deeper interest in mathematics and causal inference. 
+helps us to discover truth. Recently I have further developed a deeper interest in mathematics and causality. 
 
 # Projects
 In the past I have done some interesting [class
