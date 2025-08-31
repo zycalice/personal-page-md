@@ -1,3 +1,7 @@
+---
+title: "Yuchen Zhang"
+author_profile: true
+---
 # About me
 
 Hi! I am Yuchen Zhang, a researcher/engineer interested in Statistics, Natural Language Processing, and Machine 
