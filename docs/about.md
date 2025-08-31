@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
+# [About Me](https://zycalice.github.io/)
 <p align="center">
   <img src="images/profile-photo.jpg" width="300" height="300" alt="Profile photo">
 </p>
