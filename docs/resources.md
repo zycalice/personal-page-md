@@ -2,7 +2,6 @@
 title: "Resources"
 permalink: /resources/
 author_profile: true
-layout: archive
 ---
 
 
