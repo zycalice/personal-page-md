@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# About me
+# About Me
 Hi! I am Yuchen Zhang, a researcher/engineer interested in Statistics, Natural Language Processing, and Machine 
 Learning with a deep understanding of the algorithm theories. I am also passionate about detecting algorithm 
 bias and developing models that are fair. I care deeply about science for social good and believe that our 
@@ -17,7 +17,37 @@ research in technology and algorithms should benefit the public in a safe and fa
 Currently, I am a Software Engineer (Machine Learning)/Research Engineer at [Meta FAIR then GenAI], working on 
 Trust and Safety.
 
-# Reviewer experience
+# Papers and Publications
+* [Google scholar profile](https://scholar.google.com/citations?user=BQV7BOkAAAAJ&hl=en)
+* [Semantic scholar profile](https://www.semanticscholar.org/author/Yuchen-Zhang/2108473229)
+
+# Reviewer Experience
 * NeurIPS Workshop SoLaR
 * COLM Ethics Reviewer
+
+# Education and Professional Experience
+### Education
+* B.B.A. in Information Systems and Operations Management, Emory University, 2013 - 2017
+* B.S. in Quantitative Sciences, concentrating in Political Science, Emory University, 2013 - 2017
+* M.S. in Engineering, Data Science, University of Pennsylvania, 2020 - 2022
+
+### Work experience
+* Software Engineer, ML/Research Engineer, 2022 - Present
+  * Meta AI
+  * Duties included: large language models RAI and evaluations
+  
+* NLP Researcher/Engineer, 2021 - 2022
+  * Claudius Legal Intelligence
+  * Duties included: multi-label multi-class injury category classification; NER model as a eval 
+  task while fine-tuning BERT and a Claudius model
+
+* Researcher/Analyst, 2017 - 2020
+  * NERA Economic Consulting
+  * Duties included: expert opinion research and analysis in securities and finance 
+  disputes
+
+### Teaching Assistance
+* Teaching Assistant, 2022 - Present
+  * University of Pennsylvania, Course CIS521 Artificial Intelligence
+  * Duties included: lead home recitation, host office hours, answer posted student questions
 
