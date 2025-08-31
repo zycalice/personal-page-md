@@ -5,15 +5,14 @@ author_profile: true
 ---
 
 # Experience
-## Papers and Publications
+### Papers and Publications
 * [Google scholar profile](https://scholar.google.com/citations?user=BQV7BOkAAAAJ&hl=en)
 * [Semantic scholar profile](https://www.semanticscholar.org/author/Yuchen-Zhang/2108473229)
 
-## Reviewer Experience
+### Reviewer Experience
 * NeurIPS Workshop SoLaR
 * COLM Ethics Reviewer
 
-## Education and Professional Experience
 ### Education
 * B.B.A. in Information Systems and Operations Management, Emory University, 2013 - 2017
 * B.S. in Quantitative Sciences, concentrating in Political Science, Emory University, 2013 - 2017
