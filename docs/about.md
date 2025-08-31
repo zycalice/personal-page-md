@@ -23,4 +23,5 @@ Trust and Safety.
 
 # Experience
 Linkedin: [https://www.linkedin.com/in/yuchenalicezhang/](https://www.linkedin.com/in/yuchenalicezhang/)
-See more about my publications, education, and professional experience [here](https://zycalice.github.io/yuchen-zhang/experience/).
+
+See more about my publications, education, and professional experience *[here](https://zycalice.github.io/yuchen-zhang/experience/)*.
