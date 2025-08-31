@@ -17,15 +17,16 @@ research in technology and algorithms should benefit the public in a safe and fa
 Currently, I am a Software Engineer (Machine Learning)/Research Engineer at [Meta FAIR then GenAI], working on 
 Trust and Safety.
 
-# Papers and Publications
+# Experience
+## Papers and Publications
 * [Google scholar profile](https://scholar.google.com/citations?user=BQV7BOkAAAAJ&hl=en)
 * [Semantic scholar profile](https://www.semanticscholar.org/author/Yuchen-Zhang/2108473229)
 
-# Reviewer Experience
+## Reviewer Experience
 * NeurIPS Workshop SoLaR
 * COLM Ethics Reviewer
 
-# Education and Professional Experience
+## Education and Professional Experience
 ### Education
 * B.B.A. in Information Systems and Operations Management, Emory University, 2013 - 2017
 * B.S. in Quantitative Sciences, concentrating in Political Science, Emory University, 2013 - 2017
