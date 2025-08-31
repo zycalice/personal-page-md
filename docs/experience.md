@@ -20,8 +20,8 @@ author_profile: true
 
 ### Work experience
 * Software Engineer, ML/Research Engineer, 2022 - Present
-  * Meta AI
-  * Duties included: large language models RAI and evaluations
+  * Llama 2+
+  * Duties included: Trust and Safety, evaluations
   
 * NLP Researcher/Engineer, 2021 - 2022
   * Claudius Legal Intelligence
