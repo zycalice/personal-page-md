@@ -24,7 +24,7 @@ Trust and Safety.
 # Experience
 Linkedin: [https://www.linkedin.com/in/yuchenalicezhang/](https://www.linkedin.com/in/yuchenalicezhang/)
 
-See more about my publications, education, and professional experience *[here](https://zycalice.github.io/experience/)*.
+See more about my publications, education, and professional experience **[here](https://zycalice.github.io/experience/)**.
 
 # Projects
-See my projects *[here](https://zycalice.github.io/projects/)*. This includes class projects and personal side projects.
+See my projects **[here](https://zycalice.github.io/projects/)**. This includes class projects and personal side projects.
