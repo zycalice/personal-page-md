@@ -17,7 +17,7 @@ Hi! I am Yuchen Zhang, a researcher/engineer interested in Statistics, Natural L
 Learning with a deep understanding of the algorithm theories. I care deeply about science for social good and believe 
 that our research in technology and algorithms should benefit the public in a safe and fair way. 
 
-# Experience
+# [Experience](https://zycalice.github.io/experience/)
 Currently, I am a Software Engineer (Machine Learning)/Research Engineer at [Meta FAIR then GenAI], working on 
 Trust and Safety.
 
@@ -26,6 +26,6 @@ helps us to discover truth. Recently I have further developed a deeper interest 
 
 Linkedin: [https://www.linkedin.com/in/yuchenalicezhang/](https://www.linkedin.com/in/yuchenalicezhang/)
 
-# Projects
+# [Projects](https://zycalice.github.io/projects/)
 In the past I have done some interesting [class
 projects and personal side projects](https://zycalice.github.io/projects/).
