@@ -21,4 +21,5 @@ research in technology and algorithms should benefit the public in a safe and fa
 Currently, I am a Software Engineer (Machine Learning)/Research Engineer at [Meta FAIR then GenAI], working on 
 Trust and Safety.
 
+# Experience
 See more about my publications, education, and professional experience [here](https://zycalice.github.io/yuchen-zhang/experience/).
