@@ -1,3 +1,13 @@
+---
+title: "About Me"
+permalink: /
+excerpt: "This is Yuchen Zhang's personal website."
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # About Me
 Hi! I am Yuchen Zhang, a researcher/engineer interested in Statistics, Natural Language Processing, and Machine 
 Learning with a deep understanding of the algorithm theories. I am also passionate about detecting algorithm 
