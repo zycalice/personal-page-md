@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 <p align="center">
-  <img src="images/profile-photo.jpg" />
+  <img src="images/profile-photo.jpg" width="300" height="300" alt="Profile photo">
 </p>
 
 Hi! I am Yuchen Zhang, a researcher/engineer interested in Statistics, Natural Language Processing, and Machine 
